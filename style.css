@@ -8,3 +8,16 @@
 body{
     font-family: 'Raleway', sans-serif;
 }
+
+.banner-section{
+    height: 550px !important;
+    background-image: url('images/banner.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#review{
+    height: 200px !important;
+}
